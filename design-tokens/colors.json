@@ -1,0 +1,32 @@
+{
+  "color": {
+    "bg": {
+      "primary": { "value": "#262335", "description": "Main background" },
+      "secondary": { "value": "#241b2f", "description": "Sidebar, panels" },
+      "tertiary": { "value": "#171520", "description": "Activity bar, deepest layer" },
+      "elevated": { "value": "#2a2139", "description": "Cards, modals, elevated surfaces" },
+      "hover": { "value": "#ffffff20", "description": "Hover overlay (white 12% opacity)" }
+    },
+    "fg": {
+      "primary": { "value": "#ffffff", "description": "Main text color" },
+      "secondary": { "value": "#ffffff99", "description": "Muted text (60% opacity)" },
+      "tertiary": { "value": "#ffffff73", "description": "Disabled, hints (45% opacity)" },
+      "comment": { "value": "#848bbd", "description": "Comments, annotations" }
+    },
+    "neon": {
+      "pink": { "value": "#ff7edb", "description": "Primary accent, variables" },
+      "cyan": { "value": "#36f9f6", "description": "Functions, links" },
+      "yellow": { "value": "#fede5d", "description": "Keywords, operators" },
+      "green": { "value": "#72f1b8", "description": "Success, tags" },
+      "orange": { "value": "#ff8b39", "description": "Strings" },
+      "red": { "value": "#fe4450", "description": "Errors, important" },
+      "coral": { "value": "#f97e72", "description": "Constants, numbers" }
+    },
+    "semantic": {
+      "success": { "value": "{color.neon.green}", "description": "Success states" },
+      "warning": { "value": "{color.neon.yellow}", "description": "Warning states" },
+      "error": { "value": "{color.neon.red}", "description": "Error states" },
+      "info": { "value": "{color.neon.cyan}", "description": "Info states" }
+    }
+  }
+}

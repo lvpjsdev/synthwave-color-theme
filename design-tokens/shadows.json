@@ -1,0 +1,21 @@
+{
+  "shadow": {
+    "sm": { "value": "0 1px 2px rgba(0,0,0,0.3)", "description": "Small shadow" },
+    "md": { "value": "0 4px 6px rgba(0,0,0,0.3)", "description": "Medium shadow" },
+    "lg": { "value": "0 10px 15px rgba(0,0,0,0.4)", "description": "Large shadow" },
+    "xl": { "value": "0 20px 25px rgba(0,0,0,0.5)", "description": "Extra large shadow" }
+  },
+  "glow": {
+    "pink": { "value": "0 0 10px #ff7edb, 0 0 20px rgba(255,126,219,0.5), 0 0 30px rgba(255,126,219,0.25)", "description": "Pink neon glow" },
+    "cyan": { "value": "0 0 10px #36f9f6, 0 0 20px rgba(54,249,246,0.5), 0 0 30px rgba(54,249,246,0.25)", "description": "Cyan neon glow" },
+    "yellow": { "value": "0 0 10px #fede5d, 0 0 20px rgba(254,222,93,0.5), 0 0 30px rgba(254,222,93,0.25)", "description": "Yellow neon glow" },
+    "green": { "value": "0 0 10px #72f1b8, 0 0 20px rgba(114,241,184,0.5), 0 0 30px rgba(114,241,184,0.25)", "description": "Green neon glow" },
+    "red": { "value": "0 0 10px #fe4450, 0 0 20px rgba(254,68,80,0.5), 0 0 30px rgba(254,68,80,0.25)", "description": "Red neon glow" }
+  },
+  "textGlow": {
+    "pink": { "value": "0 0 10px #ff7edb", "description": "Pink text glow" },
+    "cyan": { "value": "0 0 10px #36f9f6", "description": "Cyan text glow" },
+    "yellow": { "value": "0 0 10px #fede5d", "description": "Yellow text glow" },
+    "green": { "value": "0 0 10px #72f1b8", "description": "Green text glow" }
+  }
+}

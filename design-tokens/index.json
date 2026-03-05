@@ -1,0 +1,14 @@
+{
+  "$schema": "https://tr.designtokens.org/format/",
+  "name": "Synthwave '84 Design Tokens",
+  "version": "1.0.0",
+  "description": "A complete design system inspired by Synthwave '84 VS Code theme",
+  "import": [
+    "./colors.json",
+    "./typography.json",
+    "./spacing.json",
+    "./borders.json",
+    "./shadows.json",
+    "./effects.json"
+  ]
+}

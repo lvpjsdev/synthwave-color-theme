@@ -1,0 +1,37 @@
+{
+  "font": {
+    "family": {
+      "display": { "value": "Orbitron", "description": "Retro-futuristic headings" },
+      "mono": { "value": "'Fira Code', monospace", "description": "Code, technical content" },
+      "body": { "value": "Inter, 'Fira Sans', sans-serif", "description": "UI text" }
+    },
+    "size": {
+      "xs": { "value": "12px", "description": "Captions, labels" },
+      "sm": { "value": "14px", "description": "Small text" },
+      "md": { "value": "16px", "description": "Body text" },
+      "lg": { "value": "18px", "description": "Large body" },
+      "xl": { "value": "20px", "description": "Subheadings" },
+      "2xl": { "value": "24px", "description": "Headings" },
+      "3xl": { "value": "32px", "description": "Large headings" },
+      "4xl": { "value": "48px", "description": "Display" },
+      "5xl": { "value": "64px", "description": "Hero text" }
+    },
+    "weight": {
+      "regular": { "value": "400", "description": "Normal weight" },
+      "medium": { "value": "500", "description": "Medium weight" },
+      "semibold": { "value": "600", "description": "Semibold weight" },
+      "bold": { "value": "700", "description": "Bold weight" }
+    },
+    "lineHeight": {
+      "tight": { "value": "1.2", "description": "Tight line height" },
+      "normal": { "value": "1.5", "description": "Normal line height" },
+      "relaxed": { "value": "1.75", "description": "Relaxed line height" }
+    },
+    "letterSpacing": {
+      "tight": { "value": "-0.025em", "description": "Tight letter spacing" },
+      "normal": { "value": "0", "description": "Normal letter spacing" },
+      "wide": { "value": "0.025em", "description": "Wide letter spacing" },
+      "wider": { "value": "0.05em", "description": "Wider letter spacing" }
+    }
+  }
+}
