@@ -1,0 +1,14 @@
+{
+  "$schema": "https://tr.designtokens.org/format/",
+  "name": "Min Darker Theme Design Tokens",
+  "version": "1.0.0",
+  "description": "Design system based on Min Darker VS Code theme - minimal dark theme",
+  "import": [
+    "./colors.json",
+    "./typography.json",
+    "./spacing.json",
+    "./borders.json",
+    "./shadows.json",
+    "./effects.json"
+  ]
+}

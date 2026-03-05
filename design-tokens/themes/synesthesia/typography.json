@@ -1,0 +1,32 @@
+{
+  "font": {
+    "family": {
+      "mono": { "value": "'JetBrains Mono', 'Fira Code', Consolas, monospace", "description": "Monospace font" }
+    },
+    "size": {
+      "xs": { "value": "10px", "description": "Extra small text" },
+      "sm": { "value": "12px", "description": "Small text" },
+      "base": { "value": "14px", "description": "Base text size" },
+      "lg": { "value": "16px", "description": "Large text" },
+      "xl": { "value": "18px", "description": "Extra large text" },
+      "2xl": { "value": "20px", "description": "2x large text" },
+      "3xl": { "value": "24px", "description": "3x large text" }
+    },
+    "weight": {
+      "normal": { "value": "400", "description": "Normal weight" },
+      "medium": { "value": "500", "description": "Medium weight" },
+      "semibold": { "value": "600", "description": "Semibold weight" },
+      "bold": { "value": "700", "description": "Bold weight" }
+    },
+    "lineHeight": {
+      "tight": { "value": "1.25", "description": "Tight line height" },
+      "normal": { "value": "1.6", "description": "Normal line height" },
+      "relaxed": { "value": "1.75", "description": "Relaxed line height" }
+    },
+    "letterSpacing": {
+      "tight": { "value": "-0.025em", "description": "Tight letter spacing" },
+      "normal": { "value": "0", "description": "Normal letter spacing" },
+      "wide": { "value": "0.025em", "description": "Wide letter spacing" }
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "shadow": {
+    "sm": { "value": "0 1px 2px rgba(0,0,0,0.5)", "description": "Small shadow" },
+    "md": { "value": "0 4px 6px rgba(0,0,0,0.5)", "description": "Medium shadow" },
+    "lg": { "value": "0 10px 15px rgba(0,0,0,0.6)", "description": "Large shadow" },
+    "xl": { "value": "0 20px 25px rgba(0,0,0,0.7)", "description": "Extra large shadow" }
+  }
+}

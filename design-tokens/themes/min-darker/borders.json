@@ -1,0 +1,18 @@
+{
+  "border": {
+    "radius": {
+      "none": { "value": "0", "description": "No radius" },
+      "sm": { "value": "4px", "description": "Small radius" },
+      "md": { "value": "8px", "description": "Medium radius" },
+      "lg": { "value": "12px", "description": "Large radius" },
+      "xl": { "value": "16px", "description": "Extra large radius" },
+      "2xl": { "value": "24px", "description": "2x large radius" },
+      "full": { "value": "9999px", "description": "Full/pill radius" }
+    },
+    "width": {
+      "thin": { "value": "1px", "description": "Thin border" },
+      "medium": { "value": "2px", "description": "Medium border" },
+      "thick": { "value": "4px", "description": "Thick border" }
+    }
+  }
+}

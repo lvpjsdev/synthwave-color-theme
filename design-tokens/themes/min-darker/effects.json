@@ -1,0 +1,22 @@
+{
+  "transition": {
+    "duration": {
+      "fast": { "value": "150ms", "description": "Fast transition" },
+      "normal": { "value": "250ms", "description": "Normal transition" },
+      "slow": { "value": "400ms", "description": "Slow transition" }
+    },
+    "easing": {
+      "default": { "value": "ease", "description": "Default easing" },
+      "in": { "value": "ease-in", "description": "Ease in" },
+      "out": { "value": "ease-out", "description": "Ease out" },
+      "inOut": { "value": "ease-in-out", "description": "Ease in out" }
+    }
+  },
+  "filter": {
+    "blur": {
+      "sm": { "value": "4px", "description": "Small blur" },
+      "md": { "value": "8px", "description": "Medium blur" },
+      "lg": { "value": "16px", "description": "Large blur" }
+    }
+  }
+}

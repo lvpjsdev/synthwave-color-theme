@@ -1,0 +1,33 @@
+{
+  "$schema": "https://tr.designtokens.org/format/",
+  "color": {
+    "bg": {
+      "main": { "value": "#0F0E17", "description": "Editor base background (bass)" },
+      "side": { "value": "#0A0912", "description": "Sidebars, panels (baritone)" },
+      "pop": { "value": "#1A1826", "description": "Popups, dropdowns (tenor)" }
+    },
+    "fg": {
+      "default": { "value": "#E4F0FB", "description": "Main foreground/code (soprano)" },
+      "muted": { "value": "#A6ACCD", "description": "Muted text, details (alto)" },
+      "faint": { "value": "#676E95", "description": "Comments, faint UI (pianissimo)" }
+    },
+    "neon": {
+      "primary": { "value": "#FF6AC1", "description": "Primary neon - keywords, accent (forte)" },
+      "bright": { "value": "#FF9AC1", "description": "Bright pink - modifiers, booleans (crescendo)" },
+      "mint": { "value": "#72F1B8", "description": "Mint neon - strings (legato)" },
+      "deepMint": { "value": "#4CD4A0", "description": "Deep mint - escapes (mezzo-legato)" },
+      "purple": { "value": "#C792EA", "description": "Electric purple - numbers (staccato)" },
+      "blue": { "value": "#82AAFF", "description": "Azure blue - functions (melody)" },
+      "cyan": { "value": "#89DDFF", "description": "Retro cyan - types (harmony)" },
+      "gold": { "value": "#FFCB6B", "description": "Gold - parameters (resonance)" }
+    },
+    "border": {
+      "default": { "value": "#2D2B3D", "description": "UI borders, dividers (contrabass)" }
+    },
+    "semantic": {
+      "success": { "value": "#A6E3A1", "description": "Success green (cadence)" },
+      "warning": { "value": "#FAB387", "description": "Warning orange (tremolo)" },
+      "error": { "value": "#FF5370", "description": "Error red (dissonance)" }
+    }
+  }
+}

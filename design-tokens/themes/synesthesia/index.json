@@ -1,0 +1,14 @@
+{
+  "$schema": "https://tr.designtokens.org/format/",
+  "name": "Synesthesia Theme Design Tokens",
+  "version": "1.0.0",
+  "description": "Design system based on Synesthesia Synthwave VS Code theme - 4 dark themes inspired by synesthesia and 80s retrofuturism",
+  "import": [
+    "./colors.json",
+    "./typography.json",
+    "./spacing.json",
+    "./borders.json",
+    "./shadows.json",
+    "./effects.json"
+  ]
+}

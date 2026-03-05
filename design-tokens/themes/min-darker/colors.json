@@ -1,0 +1,48 @@
+{
+  "$schema": "https://tr.designtokens.org/format/",
+  "color": {
+    "bg": {
+      "editor": { "value": "#0C0C0C", "description": "Editor background" },
+      "sidebar": { "value": "#070707", "description": "Sidebar, activity bar, status bar" },
+      "input": { "value": "#2A2A2A", "description": "Input fields" },
+      "hover": { "value": "#262626", "description": "Hover state" },
+      "active": { "value": "#303030", "description": "Active selection" },
+      "popup": { "value": "#070707", "description": "Popups, dropdowns" }
+    },
+    "fg": {
+      "default": { "value": "#888888", "description": "Default foreground" },
+      "bright": { "value": "#FAFAFA", "description": "Bright/active foreground" },
+      "muted": { "value": "#727272", "description": "Muted text (line numbers)" },
+      "faint": { "value": "#6b737c", "description": "Comments, docstrings" }
+    },
+    "syntax": {
+      "keyword": { "value": "#f97583", "description": "Keywords, storage" },
+      "function": { "value": "#b392f0", "description": "Functions, methods" },
+      "string": { "value": "#9db1c5", "description": "Strings" },
+      "number": { "value": "#f8f8f8", "description": "Numbers, constants" },
+      "variable": { "value": "#79b8ff", "description": "Variables, constants, properties" },
+      "parameter": { "value": "#FF9800", "description": "Function parameters" },
+      "tag": { "value": "#ffab70", "description": "Tags, attributes" }
+    },
+    "accent": {
+      "primary": { "value": "#FF7A84", "description": "Primary accent (debug icons)" },
+      "secondary": { "value": "#79b8ff", "description": "Secondary accent" },
+      "link": { "value": "#1976D2", "description": "Links" }
+    },
+    "border": {
+      "default": { "value": "#444444", "description": "Default border" },
+      "panel": { "value": "#363636", "description": "Panel border" },
+      "tab": { "value": "#070707", "description": "Tab border" }
+    },
+    "semantic": {
+      "success": { "value": "#3a632a", "description": "Success/added" },
+      "error": { "value": "#880638", "description": "Error/removed" },
+      "info": { "value": "#316bcd", "description": "Info" },
+      "warning": { "value": "#cd9731", "description": "Warning" }
+    },
+    "indentGuide": {
+      "default": { "value": "#2A2A2A", "description": "Indent guide" },
+      "active": { "value": "#383838", "description": "Active indent guide" }
+    }
+  }
+}
